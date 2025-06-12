@@ -1,4 +1,4 @@
 # Priti-Demo
 First Github
 <br>
-Author - Priti Sand
+Author - Priti Sand(SVNIT)
